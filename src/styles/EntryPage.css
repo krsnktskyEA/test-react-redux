@@ -1,0 +1,11 @@
+
+@import url('https://fonts.googleapis.com/css?family=Oranienbaum');
+
+.entrypagebody {
+  display: flex;
+  flex-direction: column;
+  height: 95vh;
+  align-items: center;
+  justify-content: center;
+}
+
